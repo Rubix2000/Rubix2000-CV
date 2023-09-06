@@ -1,36 +1,40 @@
 
 -------------------------------
 
-# Fannie Vaquero
+# Tharshan Thayanandan 
 
-**MSci. Theoretical Physics &#124; Problem Solver**
+**MSci. Physics &#124; **
 
 <div id="webaddress">
-<a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
-&#124; <a href="https://github.com/Penguin64100">GitHub : Penguin64100</a>
-&#124; <a href="https://www.linkedin.com/in/fannie-vaquero-1a969328b/">My LinkedIn</a>
+<a href="t.tharshan11@gmail.com">t.tharshan11@gmail.com</a>
+&#124; <a href="https://github.com/Rubix2000">GitHub : Rubix2000</a>
+&#124; <a href="https://www.linkedin.com/in/tharshan-thayanandan/">My LinkedIn</a>
 </div>
 
-**Languages** : `English` &#124; `French`
+**Languages** : `English` &#124; `Tamil` &124; `Spanish`
 
 ## Skills
-
-`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `NumPy` &#124; `MATLAB` &#124; `Excel` &#124; `PowerPoint` &#124; `Analytical Skills`
+**Programming** : `Python`, &#124; `HTML` &#124; `CSS` &#124; `JavaScript` &#124;`SQL` &#124; `MATLAB` &#124; `Excel` &#124; `Numpy` &#124; `Scikit-learn` &#124; `Pandas` &#124; `seaborn` &#124; `Tableau`
+**Soft Skills** : `Problem Solving` &#124; `Critical Thinking` &#124; `Team Work` &#124; `Adaptability` &#124; `Time Management`
 
 
 -------------------------------
 
 ## Education
 
-`SEP 2019 - SEP 2023` &#124; **MSci Physics with Theoretical Physics** &#124;
+`SEP 2019 - SEP 2023` &#124; **MSci Physics** &#124;
 **King's College London** &#124;
 **First Class Honours**
 
-`SEP 2016 - JUY 2017` &#124; **CPGE - Classe Préparatoire aux Grandes Ecoles &#124; PCSI** &#124;
-**Lycée René Cassin**
+`SEP 2012 - JUY 2019` &#124; **Loxford School of Science and Technology &#124; A-LEVELS**  
 
-`SEP 2013 - JUN 2016` &#124; **French Baccalaureate** &#124;
-**Lycée René Cassin**
+**Mathematics**: A  
+
+**Physics**: B  
+
+**Chemistry**: B  
+
+**AS Religion and Philosophy**: A  
 
 -------------------------------
 
