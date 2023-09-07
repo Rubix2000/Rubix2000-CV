@@ -3,7 +3,7 @@
 
 # Tharshan Thayanandan 
 
-**MSci. Physics &#124; **
+# MSci. Physics
 
 <div id="webaddress">
 <a href="t.tharshan11@gmail.com">t.tharshan11@gmail.com</a>
@@ -11,10 +11,11 @@
 &#124; <a href="https://www.linkedin.com/in/tharshan-thayanandan/">My LinkedIn</a>
 </div>
 
-**Languages** : `English` &#124; `Tamil` &124; `Spanish`
+**Languages** : `English` &#124; `Tamil` &#124; `Spanish`
 
 ## Skills
 **Programming** : `Python`, &#124; `HTML` &#124; `CSS` &#124; `JavaScript` &#124;`SQL` &#124; `MATLAB` &#124; `Excel` &#124; `Numpy` &#124; `Scikit-learn` &#124; `Pandas` &#124; `seaborn` &#124; `Tableau`
+
 **Soft Skills** : `Problem Solving` &#124; `Critical Thinking` &#124; `Team Work` &#124; `Adaptability` &#124; `Time Management`
 
 
@@ -26,7 +27,7 @@
 **King's College London** &#124;
 **First Class Honours**
 
-`SEP 2012 - JUY 2019` &#124; **Loxford School of Science and Technology &#124; A-LEVELS**  
+`SEP 2012 - JUL 2019` &#124; **Loxford School of Science and Technology &#124; A-LEVELS**  
 
 **Mathematics**: A  
 
@@ -39,73 +40,56 @@
 -------------------------------
 
 
-## Employment and Volunteering
+## Work Experience
 
-### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
+### **Technology Internship Experience by Bright Network** &#124; `JUN 2021`
 
-Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old exclusively from French schools in London.
+Attended multiple seminars on the necessary skills required to work in the technological industry, such as being a model professional, communication skills, problem-solving and coding practices.
+Completed a work sample set by EY and designed a presentation that informed a client on how technology can be used to keep and enforce regulations.
 
+### **InsideSherpa Virtual Experience Commerical Banking Program** &#124; `DEC 2020 - JAN 2021`
 
-### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
-Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
-
-### **Retail Assistant** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
-Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
-
-### **Medical Inventory** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `JUN 2021`
-Responsible for overseeing the hospital's inventory, which includes pharmaceuticals and medical supplies. Required organisation and attention to detail. Abundant use of Excel.
-
-### **Entrance Health and Safety Officer &#124; Hospital Cleaner** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `MAY 2020 - AUG 2020`
-Oversaw COVID-19 entrance protocols at the hospital, including temperature checks, mask enforcement, hand sanitization, and appointment coordination. Also employed as a hospital cleaner, responsible for maintaining a clean and sanitized healthcare environment in compliance with strict hygiene standards.
-
-### **Retail Assistant** &#124; `Work` &#124; `Pull & Bear, Anglet` &#124; `JUN 2019 - SEP 2019`
-Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a clothing retail company. Required teamwork and communication skills. 
-
-### **Teaching Assistant** &#124; `Civic Service` &#124; `Collège Aturri, St Pierre d'Irube` &#124; `OCT 2018 - JUN 2019`
-Collaborated with teachers during mathematics and science lessons, providing specialized support to small groups of students with learning disabilities.
+Produced a capitalization table using data provided by the company. Prepared an industry overview page, and a deal structure overview page summarizing financial data, and conducting quantitative and qualitative analyses. Prepared a 10-year financial model forecast.
 
 -------------------------------
 
-## Projects
-### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
+## Projects and Relevant Coursework 
 
-Conducted a research investigation centered on the oscillatory behavior of neutrinos in the vicinity of a charged black hole representing a logical extension of the literature review. Derivation of the Reissner-Nordström spacetime from the Einstein-Maxwell equations. It was followed by intricate computations to determine the phase discrepancy between different neutrino flavors when two beams underwent gravitational lensing. This research contributed novel findings that align with the established scientific literature.
+### **Bio and Nanomaterials in The Virtual Lab** &#124; `OCT 2022 - JAN 2023`
 
-### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `OCT 2022 - DEC 2022`
+Developed molecular simulations using Python. Used PyMol software to create visualisations. Learned how to use a Linux operating system and use Linux commands.
 
-Compilation of key discoveries related to neutrino oscillations, encompassing existing knowledge and the outstanding inquiries yet to be resolved. Thorough review of all derivations and calculations were conducted.
+### **Reinforcement Learning Project** &#124; `JAN 2022 - APR 2022`
 
-### **Dark Matter and Cosmic Structure Formation** &#124; `Report` &#124; `DEC 2022`
+Implemented and analysed different reinforcement learning algorithms in Python. Taught a cart pole to balance on its own by using various algorithms. Compare the effectiveness of different RL algorithms and optimise them.
 
-Project on cosmological perturbation theory and its role in the formation of large scale structures.  Review of the cosmological origin of Primordial Black Holes (PBHs) and examining its mass constraints from the cosmic microwave background (CMB). Generated some original code.
+### **Introduction to Numerical Modelling** &#124; `OCT 2020 - JAN 2021`
 
-### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
-
-SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
+Solved differential equations that modelled the collapse of the Tacoma- Narrows bridge. Used Python programming language to apply the Cromer and Taylor methods to solve the differential equations. Solved the travelling salesman problem using a simulated annealing algorithm.
 
 -------------------------------
 ## Achievements and Certifications
-`SEP 2023` Investment Banking Job Simulation &#124; `Bank of America` 
 
-`SEP 2023` Investment Banking Job Simulation &#124; `J.P. Morgan`
+`AUG 2021` Understanding and Visualising Data with Python &#124; `University of Michigan` &#124; `Coursera`
 
-`JUNE 2023` Participed in BBC Radio 4's 'The 3rd Degree' podcast &#124; `King's College London` 
+`JUL 2021` Responsive Web Design &#124; `Freecodecamp` 
 
-`MAY 2023` Produced novel research in cosmology as part of my master's thesis &#124; `King's College London` 
+`JAN 2021` Virtual Experience Program Participant &#124; `Inside Sherpa` &#124; `J.P Morgan`
 
 -------------------------------
-## Relevant Courses
-**Dark Matter & Dark Energy** &#124; `King's College London`
+## Volunteering and Work Experience
 
-**Strings, Branes and Quantum Gravity** &#124; `King's College London`
+### **Photographer at Physics Society** &#124; `SEP 2021 - FEB 2022`
 
-**Supersymmetry and Conformal Field Theory** &#124; `King's College London`
+Promoted the events and key moments of the society. Helped the society improve its social media presence and help improve the attendance to society events.
 
-**Quantum Field Theory** &#124; `King's College London`
+### **Mentor Buddy Scheme** &#124; `SEP 2021 - JAN 2022`
 
-**Standard Model and Beyond** &#124; `King's College London`
+Assisted new first-year students to settle into university. Helped show them around campus and direct them to classes. Assisted students with coursework and course material.
 
-**General Relativity and Cosmology** &#124; `King's College London`
+### **Powerhouse For Women** &#124; `JUN 2017-JULY 2017`
+
+Organized social events such as painting classes and exercise classes for the attendees. Was part of a team that organized a fund/awareness raiser for the charity, helping women with mental disabilities who dealt with physical abuse.
 
 -------------------------------
 
