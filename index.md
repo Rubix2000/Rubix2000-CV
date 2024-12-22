@@ -43,9 +43,7 @@
 ## Work Experience
 
 ### **Financial Crime Graduate - BCB Group** &#124; `APR 2024-PRESENT`
-Analysing AML policies and controls ensuring onboarded clients are in line with BCB's risk appetite
-Identifying and understanding on-chain concerns, ensuring BCB does not facilitate funds from ML/TF or Sanctioned entities
-Collating monthly KRI and MI data, summarising changes and progress achieved by the CDD and TM team
+Analysing AML policies and controls ensuring onboarded clients are in line with BCB's risk appetite  Identifying and understanding on-chain concerns, ensuring BCB does not facilitate funds from ML/TF or Sanctioned entities  Collating monthly KRI and MI data, summarising changes and progress achieved by the CDD and TM team//
 
 ### **Technology Internship Experience by Bright Network** &#124; `JUN 2021`
 
